@@ -19,8 +19,14 @@ It is a college project but try to getting industry position
                                                         |
                                                       (Next)
                                                         | 
-                                          fill form on trasection data
+                                          fill form on transection data
                                                         |
                                       ---------------------------------------
                                       |                 |                   |
-                                     Name              Mail         UTR/Transaction ID  
+                                     Name              Mail           Transaction ID  
+                                      |                 |                   |
+                                      ---------------------------------------
+                                                        |
+                                    Owner match transaction data with own payment app
+                                                        |
+                                         User get verification message 
