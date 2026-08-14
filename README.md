@@ -4,14 +4,16 @@ It is a college project but try to getting industry position
 --- 
 ## Requirements
   ### Back Sides
- - User QR Code
+ - User QR Code (link)
+   - Link preferred
+   - Direct image (Optional)
  - UPI Id
 
 --- 
 ## Verification section (Method)
    ### Notifications
    - User mail (Resive notification)
-   - WhatsApp Number (WhatsApp Notification) With whatsapp api or Owen whatsapp setup
+   - WhatsApp Number (WhatsApp Notification) With WhatsApp api or Owen WhatsApp setup
    
 ---
 ## Application Use flow
@@ -27,6 +29,6 @@ It is a college project but try to getting industry position
                                       |                 |                   |
                                       ---------------------------------------
                                                         |
-                                    Owner match transaction data with own payment app
+                                   Owner match transaction data with own payment app
                                                         |
                                          User get verification message 
