@@ -8,6 +8,7 @@ It is a college project but try to getting industry position
    - Link preferred
    - Direct image (Optional)
  - UPI Id
+ - Number (Bank attach) - (Not recommended)
 
 --- 
 ## Verification section (Method)
