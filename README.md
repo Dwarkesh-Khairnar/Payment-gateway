@@ -15,6 +15,8 @@ It is a college project but try to getting industry position
    ### Notifications
    - User mail (Resive notification)
    - WhatsApp Number (WhatsApp Notification) With WhatsApp api or Owen WhatsApp setup
+      - self host
+      - use we.me url like to direct use user whatsapp
    
 ---
 ## Application Use flow
