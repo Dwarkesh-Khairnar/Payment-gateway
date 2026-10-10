@@ -35,3 +35,6 @@ It is a college project but try to getting industry position
                               Owner match transaction data with own payment app
                                                    |
                                       User get verification message 
+
+## Tech 
+ - React.js
