@@ -38,3 +38,4 @@ It is a college project but try to getting industry position
 
 ## Tech 
  - React.js
+ - Node.js
